@@ -10,3 +10,9 @@
 [submodule "bundle/delmitmate"]
 	path = bundle/delmitmate
 	url = git://github.com/Raimondi/delimitMate.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = git://github.com/majutsushi/tagbar.git
+[submodule "bundle/minibufexpl"]
+	path = bundle/minibufexpl
+	url = git://github.com/fholgado/minibufexpl.vim.git
